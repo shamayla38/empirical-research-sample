@@ -1,0 +1,13 @@
+.DS_Store
+.Rapp.history
+.Rhistory
+.RData
+__pycache__/
+*.pyc
+.venv/
+.env
+output/logs/
+*.aux
+*.log
+*.out
+*.synctex.gz

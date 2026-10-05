@@ -1,0 +1,5 @@
+# Python packages needed by code/01_generate.py, pinned to the versions
+# actually tested when this sample was built (see README for the full
+# environment, including Stata/R/LaTeX versions).
+numpy==2.2.2
+pandas==3.0.2
